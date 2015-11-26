@@ -1,0 +1,28 @@
+name: www.findacalgaryhome.com
+favicon: null
+layout_spectrum: 0.5856736765708774
+typography_spectrum: 0.2569017556961626
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8431875994428992
+  lightness: 0.08214569231495261
+  saturation: 0.7256812599953264
+  rhythmicContrast: 0.33973723370581865
+purpose: []
